@@ -39,6 +39,7 @@
     margin: 0;
     cursor: pointer;
     text-decoration: none;
+    list-style: none;
 }
 
 .nav {

@@ -22,14 +22,23 @@
     align-items: center;
 }
 
+.lang_list {
+    vertical-align: middle;
+}
+
+.lang_list li {
+    padding-bottom: 3px;
+}
+
 .lang {
     font-family: Tourney, sans-serif;
     font-size: 22px;
     line-height: 18px;
+    font-weight: 600;
     color: #000000;
     margin: 0;
-    padding-bottom: 3px;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .nav {
